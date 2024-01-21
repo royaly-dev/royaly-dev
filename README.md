@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Royaly</h1>
-<h3 align="center">I'm junior developer, I like discovering the world of web development with the realization of projects.</h3>
+<h3 align="center">I'm a junior developer, I like discovering the world of web development with the realization of projects.</h3>
 
 - 👨‍💻 All of my projects are available at [https://royaly.dev/](https://royaly.dev/)
 
