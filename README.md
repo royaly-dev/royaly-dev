@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm royally, a French web dev that love cats, I'm interested in web développement for 2 years and I'm open to work on web project</p>
+<p align="center">I'm royaly, a French web dev that love cats, I'm interested in web développement for 2 years and I'm open to work on web project</p>
 
 ###
 
