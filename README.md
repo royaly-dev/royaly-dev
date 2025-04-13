@@ -1,4 +1,4 @@
-<h1 align="center">Hey, i'm royaly !</h1>
+<h1 align="center">Hey, I'm royaly!</h1>
 
 ###
 
